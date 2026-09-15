@@ -1,4 +1,4 @@
-# Password Strength Lab
+-# Password Strength Lab
 
 **AP Cybersecurity — Unit 1: Introduction to Security**
 
@@ -79,14 +79,14 @@ what you will fill in:
 
 | # | Algorithm | Cracked? (yes/no) | Password (if cracked) | Crack stage | Time (s) |
 |---|-----------|-------------------|-----------------------|-------------|----------|
-| 1 | MD5       |                   |                       |             |          |
-| 2 | MD5       |                   |                       |             |          |
-| 3 | SHA-1     |                   |                       |             |          |
-| 4 | SHA-1     |                   |                       |             |          |
-| 5 | SHA-256   |                   |                       |             |          |
-| 6 | SHA-256   |                   |                       |             |          |
-| 7 | SHA-1     |                   |                       |             |          |
-| 8 | SHA-256   |                   |                       |             |          |
+| 1 | MD5       |        Y          |        123456         |             |          |
+| 2 | MD5       |        Y          |                       |             |          |
+| 3 | SHA-1     |        Y          |                       |             |          |
+| 4 | SHA-1     |        Y          |                       |             |          |
+| 5 | SHA-256   |        Y          |                       |             |          |
+| 6 | SHA-256   |        Y          |                       |             |          |
+| 7 | SHA-1     |        Y          |                       |             |          |
+| 8 | SHA-256   |        N          |                       |             |          |
 
 For example, a completed row for a password that fell to the dictionary attack
 would read:
